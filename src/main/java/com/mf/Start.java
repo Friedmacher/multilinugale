@@ -4,6 +4,8 @@ import java.util.*;
 
 public class Start {
 	public static void main(String[] args) {
+		//TODO: copy everything to test classes.
+
 		Locale myLocaleEN = new Locale("en", "US");
 		Locale myLocaleDE = new Locale("de", "AT");
 
